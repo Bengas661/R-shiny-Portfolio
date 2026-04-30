@@ -29,7 +29,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
 🎥 Demo Video  
 [watch video](https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj)
 
-📦 Libraries used:  
+📦 R libraries used:  
 -tidyverse (dplyr)  
 -shiny  
 -haven  
