@@ -17,7 +17,7 @@ Automating demographics' type of tables/listings with a R-Shiny app
 📊 Details  
 Input fields (treatment variables, filters, variables to display) are automatically populated based on ADaM naming conventions.
 
-⚡ Performance 
+⚡ Performance   
   Execution time: Instant  
   Interactivity: High  
   Automation: High  
