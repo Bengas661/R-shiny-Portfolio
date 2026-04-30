@@ -1,9 +1,8 @@
 # R Shiny Portfolio – [Giannis Elmatzoglou]
 
-Welcome to my R Shiny portfolio! These projects were developed as part of the
-“Data Visualization & Dashboarding with R” specialization (Johns Hopkins University, Coursera, Nov–Dec 2025).
-
-All datasets used are simulated or publicly available.
+Welcome to my R Shiny portfolio! 
+These projects were created as part of my interest on creating interactive dashboards with R.
+Any datasets used are publicly available.
 
 ## Projects
 
@@ -34,6 +33,9 @@ Input fields (treatment variables, filters, variables to display) are automatica
 
 ### 2. Building Dashboard for a Clinical Study
 🧠 Description  
+Developed as part of the “Data Visualization & Dashboarding with R” specialization (Johns Hopkins University, Coursera, Nov–Dec 2025)
+
+🎯 Purpose 
 Interactive dashboard that creates various outputs, using pilot ADaM data.
 Includes many Tabs
 
