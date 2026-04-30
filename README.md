@@ -27,7 +27,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
 [App Link](https://ioannis-elmatzoglou.shinyapps.io/demographics/)
 
 🎥 Demo Video  
-[watch video](https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj)
+[watch video](https://youtu.be/TaZbJ1A2hKo)
 
 📦 R libraries used:  
 -tidyverse (dplyr)  
