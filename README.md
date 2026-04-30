@@ -33,9 +33,10 @@ https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogrammi
 
 
 ### 2. [App 1 Title]
-**Description:** Interactive dashboard showing [short description].  
-**Skills:** R, ggplot2, Shiny, reactive inputs.  
-**Live App:** [Link to shinyapps.io app]
+
+🌐 Live App  
+[https://ioannis-elmatzoglou.shinyapps.io/demographics/](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
+
 
 
 
