@@ -25,7 +25,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
   User Expertise: Not Required  
          
 🌐 Live App  
-https://ioannis-elmatzoglou.shinyapps.io/demographics/
+[Link to app](https://ioannis-elmatzoglou.shinyapps.io/demographics/)
 
 🎥 Demo Video  
 https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj
@@ -35,7 +35,7 @@ https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogrammi
 ### 2. [App 1 Title]
 
 🌐 Live App  
-[sss](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
+[Link to app](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
 
 
 
