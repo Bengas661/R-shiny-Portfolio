@@ -11,12 +11,13 @@ All datasets used are simulated or publicly available.
 🧠 Description  
 Interactive dashboard that creates Demographic type of tables + Listing, using ADSL uploaded by the user.
 
-Purpose: Automating demographics' type of tables/listings with a R-Shiny app
+🎯 Purpose   
+Automating demographics' type of tables/listings with a R-Shiny app
 
 📊 Details  
 Input fields (treatment variables, filters, variables to display) are automatically populated based on ADaM naming conventions.
 
-Performance:  
+⚡ Performance 
   Execution time: Instant  
   Interactivity: High  
   Automation: High  
