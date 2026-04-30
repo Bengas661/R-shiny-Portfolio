@@ -9,7 +9,7 @@ All datasets used are simulated or publicly available.
 
 ### 1. Automating Demographic / Baseline tables
 🧠 Description  
-Interactive dashboard that creates Demographic tables using ADSL uploaded by the user.
+Interactive dashboard that creates Demographic type of tables + Listing, using ADSL uploaded by the user.
 
 📊 Details  
 Input fields (treatment variables, filters, variables to display) are automatically populated based on ADaM naming conventions.
