@@ -35,7 +35,7 @@ https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogrammi
 ### 2. [App 1 Title]
 
 🌐 Live App  
-[https://ioannis-elmatzoglou.shinyapps.io/demographics/](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
+[https://ioannis-elmatzoglou.shinyapps.io/demographics/](sss)
 
 
 
