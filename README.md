@@ -25,7 +25,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
   User Expertise: Not Required  
          
 🌐 Live App  
-[try it](https://ioannis-elmatzoglou.shinyapps.io/demographics/)
+[App Link](https://ioannis-elmatzoglou.shinyapps.io/demographics/)
 
 🎥 Demo Video  
 [watch video](https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj)
@@ -38,7 +38,7 @@ Interactive dashboard that creates various outputs, using pilot ADaM data.
 Includes many Tabs
 
 🌐 Live App  
-[try it](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
+[App Link](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
 
 
 
