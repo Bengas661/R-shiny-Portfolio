@@ -8,13 +8,17 @@ All datasets used are simulated or publicly available.
 ## Projects
 
 ### 1. Automating Demographic / Baseline tables
-**Description:** Interactive dashboard that interactively creates Demographic , by using ADSL uploaded by the user.  
+🧠 Description  
+Interactive dashboard that creates Demographic tables using ADSL uploaded by the user.
 
-**Details:** Input fields (Treatment variables, filters, variables to display) are populated automatically based on ADaM naming conventions 
+📊 Details  
+Input fields (treatment variables, filters, variables to display) are automatically populated based on ADaM naming conventions.
 
-**Live App:** [https://ioannis-elmatzoglou.shinyapps.io/demographics/].
+🌐 Live App  
+https://ioannis-elmatzoglou.shinyapps.io/demographics/
 
-**Demo Video:** https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJXACsBNRyiWb6pGmW3Bk6BOdXFwctui3M
+🎥 Demo Video  
+https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj
 
 
 
