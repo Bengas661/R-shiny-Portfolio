@@ -32,7 +32,10 @@ Input fields (treatment variables, filters, variables to display) are automatica
 
 
 
-### 2. [App 1 Title]
+### 2. Building Dashboard for a Clinical Study
+🧠 Description  
+Interactive dashboard that creates various outputs, using pilot ADaM data.
+Includes many Tabs
 
 🌐 Live App  
 [Link to app](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
