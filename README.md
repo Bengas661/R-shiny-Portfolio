@@ -13,17 +13,16 @@ Interactive dashboard that creates Demographic type of tables + Listing, using A
 
 Purpose: Automating demographics' type of tables/listings with a R-Shiny app
 
-Software used: R  
-Execution time: Instant  
-Interactivity: High  
-Automation: High  
-Applicability: Multiple Studies  
-User Expertise: Not Required  
-Cost: Free  
-
 📊 Details  
 Input fields (treatment variables, filters, variables to display) are automatically populated based on ADaM naming conventions.
 
+Performance:  
+  Execution time: Instant  
+  Interactivity: High  
+  Automation: High  
+  Applicability: Multiple Studies  
+  User Expertise: Not Required  
+         
 🌐 Live App  
 https://ioannis-elmatzoglou.shinyapps.io/demographics/
 
