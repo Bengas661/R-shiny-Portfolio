@@ -16,7 +16,9 @@ All datasets used are simulated or publicly available.
 **Description:** Interactive dashboard showing [short description].  
 **Skills:** R, Shiny modules, dynamic UI, interactive charts.  
 **Live App:** [https://ioannis-elmatzoglou.shinyapps.io/demographics/].
+
 **Demo Video:** https://www.linkedin.com/posts/giannis-elmatzoglou-7a319111_statisticalprogramming-rshiny-clinicaltrials-activity-7455219317089976320-JPpj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJXACsBNRyiWb6pGmW3Bk6BOdXFwctui3M
+
 
 ## Technologies Used
 
