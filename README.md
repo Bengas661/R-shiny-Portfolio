@@ -40,11 +40,11 @@ Developed as part of the “Data Visualization & Dashboarding with R” speciali
 
 🎯 Purpose 
 Interactive dashboard that creates various outputs, using pilot ADaM data.
-Contains many sub-apps, inclucing:
-  -Safety Monitoring
-  -Laboratory Tests
-  -Kaplan-Meier (Time-to-Event) Analysis
-  -Recruitment demographics / Subjects' Disposition details
+Contains many sub-apps, inclucing:  
+  -Safety Monitoring  
+  -Laboratory Tests  
+  -Kaplan-Meier (Time-to-Event) Analysis  
+  -Recruitment demographics / Subjects' Disposition details  
 
 🌐 Live App  
 [App Link](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
