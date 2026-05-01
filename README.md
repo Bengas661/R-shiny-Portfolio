@@ -6,7 +6,7 @@ Any datasets used are publicly available.
 
 ## Projects
 
-### 1. Automating Demographic / Baseline tables
+### 1. Automating Demographic / Baseline tables   [April 2026]
 🧠 Description  
 Interactive dashboard that creates Demographic type of tables + Listings, using ADSL dataset, uploaded by the user.
 
@@ -34,7 +34,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
 -shiny  
 -haven  
 
-### 2. Building Dashboard for a Clinical Study
+### 2. Building Dashboard for a Clinical Study [December 2025]
 🧠 Description  
 Developed as part of the “Data Visualization & Dashboarding with R” specialization (Johns Hopkins University, Coursera, Nov–Dec 2025)
 
