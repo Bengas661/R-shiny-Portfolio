@@ -8,7 +8,7 @@ Any datasets used are publicly available.
 
 ### 1. Automating Demographic / Baseline tables
 🧠 Description  
-Interactive dashboard that creates Demographic type of tables + Listings, using ADSL uploaded by the user.
+Interactive dashboard that creates Demographic type of tables + Listings, using ADSL ADaM dataset, uploaded by the user.
 
 🎯 Purpose   
 Automating demographics' type of tables/listings with a R-Shiny app
