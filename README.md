@@ -44,7 +44,7 @@ Contains many sub-apps, inclucing:
   -Safety Monitoring
   -Laboratory Tests
   -Kaplan-Meier (Time-to-Event) Analysis
-  -Recruitment demographics 
+  -Recruitment demographics / Subjects' Disposition details
 
 🌐 Live App  
 [App Link](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
