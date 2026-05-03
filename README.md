@@ -42,7 +42,7 @@ Developed as part of the “Data Visualization & Dashboarding with R” speciali
 Interactive dashboard that creates various outputs, using pilot ADaM data.
 Contains many sub-apps, inclucing:  
   -Safety Monitoring  
-  -Laboratory Tests  
+  -Laboratory Tests / Shifts
   -Kaplan-Meier (Time-to-Event) Analysis  
   -Recruitment demographics / Subjects' Disposition details  
 
