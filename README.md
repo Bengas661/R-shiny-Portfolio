@@ -1,7 +1,9 @@
 # R Shiny Portfolio – [Giannis Elmatzoglou]
 
-Welcome to my R Shiny portfolio! 
-These projects were created as part of my interest on creating interactive dashboards with R.
+Welcome to my R Shiny portfolio!   
+The following projects were created in order to enhance clinical data review, based on ADaM datasets.  
+The goal was to make it easier to explore safety data dynamically instead of relying on static tables.  
+It includes patient-level views, adverse event exploration with filters, and lab trend visualizations.  
 Any datasets used are publicly available.
 
 ## Projects
