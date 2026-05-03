@@ -3,7 +3,7 @@
 Welcome to my R Shiny portfolio!  
   
 The following projects were created in order to enhance clinical data review.
-Being based on ADaM datasets, the goal was to make it easier to explore safety data dynamically instead of relying on static tables.  
+Being based on ADaM datasets, the goal was to make it easier for the user to explore safety data dynamically instead of relying on static tables.  
 
 They include: interactive exploration of baseline characteristics, patient-level views, adverse event exploration with filters, and lab trend visualizations.    
   
