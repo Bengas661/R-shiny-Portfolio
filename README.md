@@ -43,7 +43,7 @@ Interactive dashboard that creates various outputs, using pilot ADaM data.
 Contains many sub-apps, inclucing:  
   -Safety Monitoring:  
     Adverse Events    
-    Laboratory Tests / Shifts
+    Laboratory Tests / Shifts  
   -Time-to-Event Analysis (Kaplan-Meier)  
   -Recruitment demographics / Subjects' Disposition details  
 
