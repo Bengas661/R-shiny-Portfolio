@@ -34,16 +34,17 @@ Input fields (treatment variables, filters, variables to display) are automatica
 -shiny  
 -haven  
 
-### 2. Building Dashboard for a Clinical Study [December 2025]
+### 2. Building Dashboard for the Exploration of Clinical Study [December 2025]
 🧠 Description  
 Developed as part of the “Data Visualization & Dashboarding with R” specialization (Johns Hopkins University, Coursera, Nov–Dec 2025)
 
 🎯 Purpose 
 Interactive dashboard that creates various outputs, using pilot ADaM data.
 Contains many sub-apps, inclucing:  
-  -Safety Monitoring  
-  -Laboratory Tests / Shifts
-  -Kaplan-Meier (Time-to-Event) Analysis  
+  -Safety Monitoring:  
+    Adverse Events  
+    Laboratory Tests / Shifts
+  -Time-to-Event Analysis (Kaplan-Meier)  
   -Recruitment demographics / Subjects' Disposition details  
 
 🌐 Live App  
