@@ -87,7 +87,7 @@ Leveraging the standardized ADaM structure for AE analysis datasets, combined wi
    points (e.g., DSUR meetings) with minimal or no 
    programming support
    
-🌍 Applicability
+🌍 Applicability  
 Multiple studies — currently tested on 
 parallel study designs
          
