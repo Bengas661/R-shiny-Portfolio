@@ -99,7 +99,7 @@ parallel study designs
 
 ---
 
-# 📋 Disposition Shiny App
+### 4. Disposition Shiny App   [June 2026]
 
 > A single-view exploration tool for subject disposition data.
 
@@ -128,13 +128,9 @@ This application uses **CDISC Pilot Study SDTM data**.
 
 🚀 [Launch the App](https://ioannis-elmatzoglou.shinyapps.io/disposition/)
 
----
-
 ## Source Code
 
 📁 [View Repository](https://github.com/Bengas661/Disposition_sdtm)
-
----
 
 ## License
 
