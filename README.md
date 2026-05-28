@@ -123,10 +123,10 @@ This application uses **CDISC Pilot Study SDTM data**.
 
 🔗 [CDISC Pilot Project](https://github.com/cdisc-org/sdtm-adam-pilot-project)
 
-🌐 Live App 
+🌐 Live App   
 [Launch the App](https://ioannis-elmatzoglou.shinyapps.io/disposition/)
 
-📁 Source Code
+📁 Source Code  
 [View Repository](https://github.com/Bengas661/Disposition_sdtm)
 
 
