@@ -117,13 +117,13 @@ Exploring subject disposition data often requires navigating multiple SDTM datas
 - **Diagnostic Layer** — Adds an additional layer for detecting potential data or programming issues (e.g., dates, visits, epochs, treatments)
 
 🌐 Live App   
-[Launch the App](https://ioannis-elmatzoglou.shinyapps.io/disposition/)
+[App Link](https://ioannis-elmatzoglou.shinyapps.io/disposition/)
 
 📁 Source Code  
 [View Repository](https://github.com/Bengas661/Disposition_sdtm)
 
 🧬 Data Source    
-This application uses [CDISC Pilot Project SDTM data](https://github.com/cdisc-org/sdtm-adam-pilot-project)
+[CDISC Pilot Project data (SDTM)](https://github.com/cdisc-org/sdtm-adam-pilot-project)
 
 
 
