@@ -122,9 +122,8 @@ Exploring subject disposition data often requires navigating multiple SDTM datas
 📁 Source Code  
 [View Repository](https://github.com/Bengas661/Disposition_sdtm)
 
-🧬 Data Source  
-This application uses **CDISC Pilot Study SDTM data**.
-[CDISC Pilot Project](https://github.com/cdisc-org/sdtm-adam-pilot-project)
+🧬 Data Source    
+This application uses [CDISC Pilot Project SDTM data](https://github.com/cdisc-org/sdtm-adam-pilot-project)
 
 
 
