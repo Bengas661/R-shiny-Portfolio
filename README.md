@@ -120,7 +120,7 @@ Exploring subject disposition data often requires navigating multiple SDTM datas
 [App Link](https://ioannis-elmatzoglou.shinyapps.io/disposition/)
 
 📁 Source Code  
-[View Repository](https://github.com/Bengas661/Disposition_sdtm)
+[Repository](https://github.com/Bengas661/Disposition_sdtm)
 
 🧬 Data Source    
 [CDISC Pilot Project data (SDTM)](https://github.com/cdisc-org/sdtm-adam-pilot-project)
