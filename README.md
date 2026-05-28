@@ -3,9 +3,9 @@
 Welcome to my R Shiny portfolio!  
   
 The following projects were created in order to enhance clinical data review.
-Being based on ADaM datasets, the goal was to make it easier for the user to explore safety data dynamically instead of relying on static tables.  
+Being based on SDTM/ADaM datasets, the goal was to make it easier for the user to explore efficacy/safety/patient data dynamically instead of relying on static tables.  
 
-They include: interactive exploration of baseline characteristics, patient-level views, adverse event exploration with filters, and lab trend visualizations.    
+They include: interactive exploration of baseline characteristics, patient-level views, adverse event exploration with filters, lab trend visualizations and disposition data.    
   
 Datasets used are publicly available.
 
@@ -28,8 +28,7 @@ Contains many sub-apps, inclucing:
 [App Link](https://ioannis-elmatzoglou.shinyapps.io/clinical_study_demo/)
 
 
-
-
+---
 
 ### 2. Automating Demographic / Baseline tables   [April 2026]
 🧠 Description  
@@ -59,6 +58,7 @@ Input fields (treatment variables, filters, variables to display) are automatica
 -shiny  
 -haven  
 
+---
 
 ### 3. Automating Safety Monitoring during the study (Upgrading previous app) [May 2026]
 
