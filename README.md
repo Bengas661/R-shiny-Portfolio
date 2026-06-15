@@ -99,7 +99,7 @@ parallel study designs
 
 ---
 
-### 4. Disposition Shiny App   [June 2026]
+### 4. Disposition Shiny App   [May 2026]
 
 🧠 Description   
 A single-view exploration tool for subject disposition data.
