@@ -126,10 +126,26 @@ Exploring subject disposition data often requires navigating multiple SDTM datas
 [CDISC Pilot Project data (SDTM)](https://github.com/cdisc-org/sdtm-adam-pilot-project)
 
 
+### 5. teal Exploration Sandbox   [June 2026]  
+A living app for experimenting with teal modules for interactive clinical 
+reporting. Started during the "Hands On Clinical Reporting Using R" course 
+(Genentech/Roche) and continuing to evolve.
+
+🎯 Purpose  
+Experimenting with teal modules and Git functionalities
+
+🌐 Live App   
+[App Link](https://ioannis-elmatzoglou.shinyapps.io/testing_teal_app/)
+
+📁 Source Code  
+[Repository](https://github.com/Bengas661/testing_teal_app)
+
+🧬 Data Source    
+random.cdisc.data R package
 
 
 
 ## Technologies Used
 
-- R (tidyverse, ggplot2, R Markdown)
+- R (tidyverse, pharmaverse, ggplot2, R Markdown)
 - Shiny (dashboards, reactive programming)
