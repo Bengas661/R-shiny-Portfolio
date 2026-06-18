@@ -142,7 +142,7 @@ Experimenting with teal modules and Git functionalities
 [Repository](https://github.com/Bengas661/testing_teal_app)
 
 🧬 Data Source    
-random.cdisc.data R package
+Generated through **random.cdisc.data** R package
 
 
 
