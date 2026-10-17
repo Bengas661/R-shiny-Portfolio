@@ -161,11 +161,9 @@ To speed up programming by turning natural-language requests into reusable R cod
 ⚠️ Limitations  
 Generated code is not validated and can be wrong or statistically inappropriate, so check it before relying on it.
 
-🤖 LLM choice
-The app uses Google Gemini models, because they offer a free API key. Many other LLMs could be used through (check [ellmer](https://ellmer.tidyverse.org) )
-
-[!NOTE]  
-On the free Gemini tier, your prompts may be used by Google to improve its models (check Google's current terms). The app sends only your typed requests to the model, not your datasets, but don't include confidential or patient-level information in a prompt.
+🤖 LLM choice  
+The app uses Google Gemini models, because they offer a free API key. Many other LLMs could be used through (check [ellmer](https://ellmer.tidyverse.org) )  
+[!NOTE] On the free Gemini tier, your prompts may be used by Google to improve its models
  
 🎥 Demo Video  
 [watch video: gtsummary / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)  
