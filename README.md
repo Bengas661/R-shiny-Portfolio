@@ -128,6 +128,7 @@ Exploring subject disposition data often requires navigating multiple SDTM datas
 ---
 
 ### 5. teal Exploration Sandbox   [June 2026]  
+🧠 Description  
 A living app for experimenting with teal modules for interactive clinical 
 reporting. Started during the "Hands On Clinical Reporting Using R" course 
 (Genentech/Roche) and continuing to evolve.
@@ -151,6 +152,7 @@ Generated through **random.cdisc.data** R package
 
 
 ### 6. R-GPT / Using LLMs Inside Shiny Apps: Dynamic Code & Output Engine    [October 2026]  
+🧠 Description  
 R-GPT is an experiment in embedding an LLM inside a Shiny app, built with the shiny and ellmer packages. You can type a request such as “Kaplan-Meier plot of OS by ARM” or “demographics table by treatment arm”. The app sends it to Google Gemini through ellmer, receives R code, evaluates it, and displays the result as a plot, a gt/gtsummary table or console output. Because the code is displayed, you can review it and copy it into your own scripts (it refers to the objects adsl, adae, adtte and user_data, so rename these to match your data). The chat history is kept, so you can refine a result step by step (“add a p-value”, “change the colours”) or undo the last change. You can work on simulated ADSL, ADAE and ADTTE data from random.cdisc.data, or upload your own .rds, .csv, .xpt or .sas7bdat file.
 
 🎯 Purpose  
