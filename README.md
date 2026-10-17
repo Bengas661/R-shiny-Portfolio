@@ -145,21 +145,17 @@ Experimenting with teal modules and Git functionalities
 Generated through **random.cdisc.data** R package
 
 
+---
 
-## Technologies Used
-
-- R (tidyverse, pharmaverse, ggplot2, R Markdown)
-- Shiny (dashboards, reactive programming)
 
 
 
 ### 6. R-gpt / Using LLMs Inside Shiny Apps: Dynamic Code & Output Engine    [October 2026]  
-A living app for experimenting with teal modules for interactive clinical 
-reporting. Started during the "Hands On Clinical Reporting Using R" course 
-(Genentech/Roche) and continuing to evolve.
+R-GPT is an experiment in embedding an LLM inside a Shiny app, built with the shiny and ellmer packages. You can type a request such as “Kaplan-Meier plot of OS by ARM” or “demographics table by treatment arm”. The app sends it to Google Gemini through ellmer, receives R code, evaluates it, and displays the result as a plot, a gt/gtsummary table or console output. The chat history is kept, so you can refine a result step by step (“add a p-value”, “change the colours”) or undo the last change. You can work on simulated ADSL, ADAE and ADTTE data from random.cdisc.data, or upload your own .rds, .csv, .xpt or .sas7bdat file.
+
 
 🎯 Purpose  
-xxxxxxxx
+Generating code and output based on verbatim descriptions by user that can be constantly updated
 
 🌐 Live App   
 Not Available
@@ -172,6 +168,11 @@ Not Available
 [watch video: surival analysis](https://www.youtube.com/xxxxxxxxxxxx)
 
 
+
+## Technologies Used
+
+- R (tidyverse, pharmaverse, ggplot2, R Markdown)
+- Shiny (dashboards, reactive programming)
 
 
 
