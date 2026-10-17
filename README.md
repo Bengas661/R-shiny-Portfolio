@@ -150,3 +150,31 @@ Generated through **random.cdisc.data** R package
 
 - R (tidyverse, pharmaverse, ggplot2, R Markdown)
 - Shiny (dashboards, reactive programming)
+
+
+
+### 6. R-gpt / Using LLMs Inside Shiny Apps: Dynamic Code & Output Engine    [October 2026]  
+A living app for experimenting with teal modules for interactive clinical 
+reporting. Started during the "Hands On Clinical Reporting Using R" course 
+(Genentech/Roche) and continuing to evolve.
+
+🎯 Purpose  
+xxxxxxxx
+
+🌐 Live App   
+Not Available
+
+📁 Source Code  
+[Repository](https://github.com/Bengas661/testing_teal_app](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-))
+
+🎥 Demo Video  
+[watch video: gtsummary](https://www.youtube.com/xxxxxxxxxxxx)
+[watch video: surival analysis](https://www.youtube.com/xxxxxxxxxxxx)
+
+
+
+
+
+
+
+
