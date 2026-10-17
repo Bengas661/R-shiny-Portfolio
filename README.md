@@ -163,7 +163,7 @@ Generated code is not validated and can be wrong or statistically inappropriate,
 Not Available
 
 📁 Source Code  
-[Repository](https://github.com/Bengas661/testing_teal_app](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-))
+[Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
 
 🎥 Demo Video  
 [watch video: gtsummary](https://www.youtube.com/xxxxxxxxxxxx)  
