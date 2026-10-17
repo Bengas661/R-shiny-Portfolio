@@ -166,8 +166,8 @@ Not Available
 [Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
 
 🎥 Demo Video  
-[watch video: gtsummary](https://www.youtube.com/xxxxxxxxxxxx)  
-[watch video: surival analysis](https://www.youtube.com/xxxxxxxxxxxx)
+[watch video: gtsummary / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)  
+[watch video: surival analysis / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)
 
 
 
