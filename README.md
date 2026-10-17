@@ -167,15 +167,12 @@ The app uses Google Gemini models, because they offer a free API key. Many other
 [!NOTE]  
 On the free Gemini tier, your prompts may be used by Google to improve its models (check Google's current terms). The app sends only your typed requests to the model, not your datasets, but don't include confidential or patient-level information in a prompt.
  
-🌐 Live App   
-Not Available
-
-📁 Source Code  
-[Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
-
 🎥 Demo Video  
 [watch video: gtsummary / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)  
 [watch video: surival analysis / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)
+
+📁 Source Code  
+[Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
 
 
 
