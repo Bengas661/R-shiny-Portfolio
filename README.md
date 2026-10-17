@@ -161,6 +161,15 @@ To speed up programming by turning natural-language requests into reusable R cod
 ⚠️ Limitations  
 Generated code is not validated and can be wrong or statistically inappropriate, so check it before relying on it.
 
+🤖LLM choice
+A variety of LLMs is possible (check [ellmer](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-](https://ellmer.tidyverse.org)), however app uses only Gemini models as they have free API key, with the downside that your data is used to improve the model
+
+## 🤖 LLM choice
+The app uses Google Gemini models, because they offer a free API key. Many other LLMs can be used through (check [ellmer](https://ellmer.tidyverse.org) )
+
+[!NOTE]  
+On the free Gemini tier, your prompts may be used by Google to improve its models (check Google's current terms). The app sends only your typed requests to the model, not your datasets, but don't include confidential or patient-level information in a prompt.
+ 
 🌐 Live App   
 Not Available
 
