@@ -163,7 +163,7 @@ Generated code is not validated and can be wrong or statistically inappropriate,
 
 🤖 LLM choice  
 The app uses Google Gemini models, because they offer a free API key. Many other LLMs could be used through (check [ellmer](https://ellmer.tidyverse.org) )  
-[!NOTE] On the free Gemini tier, your prompts may be used by Google to improve its models
+NOTE -> On the free Gemini tier, your prompts may be used by Google to improve its models
  
 🎥 Demo Video  
 [watch video: gtsummary / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)  
