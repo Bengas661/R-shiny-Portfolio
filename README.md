@@ -164,7 +164,7 @@ Not Available
 [Repository](https://github.com/Bengas661/testing_teal_app](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-))
 
 🎥 Demo Video  
-[watch video: gtsummary](https://www.youtube.com/xxxxxxxxxxxx)
+[watch video: gtsummary](https://www.youtube.com/xxxxxxxxxxxx)  
 [watch video: surival analysis](https://www.youtube.com/xxxxxxxxxxxx)
 
 
