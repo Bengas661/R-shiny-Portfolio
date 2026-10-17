@@ -150,11 +150,11 @@ Generated through **random.cdisc.data** R package
 
 
 
-### 6. R-gpt / Using LLMs Inside Shiny Apps: Dynamic Code & Output Engine    [October 2026]  
-R-GPT is an experiment in embedding an LLM inside a Shiny app, built with the shiny and ellmer packages. You can type a request such as “Kaplan-Meier plot of OS by ARM” or “demographics table by treatment arm”. The app sends it to Google Gemini through ellmer, receives R code, evaluates it, and displays the result as a plot, a gt/gtsummary table or console output. The chat history is kept, so you can refine a result step by step (“add a p-value”, “change the colours”) or undo the last change. You can work on simulated ADSL, ADAE and ADTTE data from random.cdisc.data, or upload your own .rds, .csv, .xpt or .sas7bdat file.
+### 6. R-GPT / Using LLMs Inside Shiny Apps: Dynamic Code & Output Engine    [October 2026]  
+R-GPT is an experiment in embedding an LLM inside a Shiny app, built with the shiny and ellmer packages. You can type a request such as “Kaplan-Meier plot of OS by ARM” or “demographics table by treatment arm”. The app sends it to Google Gemini through ellmer, receives R code, evaluates it, and displays the result as a plot, a gt/gtsummary table or console output. Because the code is displayed, you can review it and copy it into your own scripts (it refers to the objects adsl, adae, adtte and user_data, so rename these to match your data). The chat history is kept, so you can refine a result step by step (“add a p-value”, “change the colours”) or undo the last change. You can work on simulated ADSL, ADAE and ADTTE data from random.cdisc.data, or upload your own .rds, .csv, .xpt or .sas7bdat file.
 
 🎯 Purpose  
-To explore generating R code and output (plots, tables, console results) from natural-language requests, with the conversation kept so each result can be refined or undone step by step. It also served as a practice project for building dynamic, LLM-driven interfaces in Shiny
+To speed up programming by turning natural-language requests into reusable R code. The generated code is shown together with its output, so it can be reviewed and then copied into your own scripts. Follow-up requests refine the code step by step.
 
 ⚠️ Limitations  
 Generated code is not validated and can be wrong or statistically inappropriate, so check it before relying on it.
