@@ -173,10 +173,6 @@ Not Available
 
 
 
-## Technologies Used
-
-- R (tidyverse, pharmaverse, ggplot2, R Markdown)
-- Shiny (dashboards, reactive programming)
 
 
 
