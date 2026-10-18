@@ -166,7 +166,7 @@ The app uses Google Gemini models, because they offer a free API key. Many other
 NOTE -> On the free Gemini tier, your prompts may be used by Google to improve its models
  
 🎥 Demo Video  
-[watch video: gtsummary / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)  
+[Demonstration with gtsummary](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
 [watch video: surival analysis / not ready yet](https://www.youtube.com/xxxxxxxxxxxx)
 
 📁 Source Code  
