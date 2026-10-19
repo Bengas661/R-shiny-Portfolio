@@ -169,8 +169,6 @@ NOTE -> On the free Gemini tier, your prompts may be used by Google to improve i
 [Demonstration for Tables (gtsummary)](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
 [Demonstration for Graphs (survminer/ggplot2/plotly) ](https://youtu.be/alL6M6El3tI)
 
-https://youtu.be/alL6M6El3tI
-
 📁 Source Code  
 [Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
 
