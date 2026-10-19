@@ -166,8 +166,8 @@ The app uses Google Gemini models, because they offer a free API key. Many other
 NOTE -> On the free Gemini tier, your prompts may be used by Google to improve its models
  
 🎥 Demo Video  
-[Demo with gtsummary](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
-[Demo with survival / survminer/ ggplot2/ plotly ](https://youtu.be/alL6M6El3tI)
+[Demo 1 with gtsummary](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
+[Demo 2 with survival, survminer, ggplot2, plotly ](https://youtu.be/alL6M6El3tI)
 
 📁 Source Code  
 [Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
