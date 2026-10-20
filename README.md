@@ -167,7 +167,7 @@ NOTE -> On the free Gemini tier, your prompts may be used by Google to improve i
  
 🎥 Demo Video  
 [1. Producing tables with gtsummary](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
-[2. KM graps with survival, survminer, ggplot2, plotly ](https://youtu.be/alL6M6El3tI)
+[2. KM graphs with survival, survminer, ggplot2, plotly ](https://youtu.be/alL6M6El3tI)
 
 📁 Source Code  
 [Repository](https://github.com/Bengas661/R-gpt-LLMs-inside-shiny-)
