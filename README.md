@@ -166,7 +166,7 @@ The app uses Google Gemini models, because they offer a free API key. Many other
 NOTE -> On the free Gemini tier, your prompts may be used by Google to improve its models
  
 🎥 Demo Video  
-[1. Producing tables with gtsummary](https://www.youtube.com/watch?v=KDrXMbvhmgw)  
+[1. Producing tables with gtsummary](https://youtu.be/StohC0VDPyg)  
 [2. KM graphs with survival, survminer, ggplot2, plotly ](https://youtu.be/alL6M6El3tI)
 
 📁 Source Code  
